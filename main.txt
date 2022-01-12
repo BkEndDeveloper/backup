@@ -6,3 +6,5 @@ Food
 House
 Travel
 Birds
+Mountain
+Flower
